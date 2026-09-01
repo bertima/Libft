@@ -2,7 +2,7 @@ _This project has been created as part of the 42 curriculum by Bertrmar._
 
 # LIBFT &nbsp; ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## Table of Content
+## Table of Contents
 
 1. [Description](#description)
 2. [Instructions](#instructions)
