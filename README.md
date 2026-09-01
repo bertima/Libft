@@ -24,6 +24,12 @@ _This project has been created as part of the 42 curriculum by Bertrmar._
 - C Compiler (`cc` or `gcc`)
 - Make
 
+Clone the project to your computer and navigate to the folder that was created:
+```bash
+git clone git@github.com:bertima/Libft.git libft && cd libft
+```
+You are now in the project titled libft.
+
 #### <u>Compilation</u>
 
 To compile the library, run the Makefile in the `libft` directory:
